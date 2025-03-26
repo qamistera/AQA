@@ -1,0 +1,6 @@
+log.txt
+*.md
+/loog/*
+!/loog/log.txt
+!.gitkeep
+
